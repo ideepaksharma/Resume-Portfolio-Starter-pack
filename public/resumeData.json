@@ -1,0 +1,141 @@
+{
+  "main": {
+    "name": "Deepak Sharma",
+    "occupation": "Solution Architect | Aspiring React JS Developer | Cloud Enthusiast",
+    "description": "Front End Developer | Day & Night",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Deepak! I've been associated with IT industry for over 12 years now. As a software developer I've worked both with medium and large corporations to help build & scale their companies. Along the journey I have served various roles beginning with Jr. Software Developer, SUbject Matter Expert, Business Analyst, Product Owner and now Solution Architect. I am currently working with Amdocs, Germany and working at customer location in Nuremberg, Germany from last two years.",
+    "contactmessage": "Feel free to get in touch with me for more details!",
+    "email": "dsharma.25@gmail.com",
+    "phone": "+49 xxxxx xxxxx",
+    "address": {
+      "street": "",
+      "city": "Nuremberg",
+      "state": "Germany",
+      "zip": "90402"
+    },
+    "website": "https://www.google.com",
+    "resumedownload": "https://myportfolioresumebucket.s3.eu-central-1.amazonaws.com/Deepak_Sharma_VisualCV_Resume.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/deepakrsharma",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ideepaksharma",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ichbindeepak/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ideepaksharma",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Gujarat University - India",
+        "degree": "Bachelor's Degree, Computer Engineering",
+        "graduated": "April 2009",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Amdocs Software GmbH, Nuremberg, Germany",
+        "title": "Business Operations Team Lead",
+        "years": "June 2019 - Present",
+        "description": "Currently working for a Financial Services client as a CRM developer in Nuremberg, Germany on work permit. It's been two years since I have moved to this new role."
+      },
+      {
+        "company": "Amdocs Development Centre India LLP, Pune, India",
+        "title": "Software Development Specialist",
+        "years": "May 2010 - May 2019",
+        "description": ""
+      },
+      {
+        "company": "Tata Institute of Fundamental Research, Mumbai, India",
+        "title": "Project Assistant",
+        "years": "Sep 2009 - May 2010",
+        "description": ""
+      },
+      {
+        "company": "Bonrix Software Systems, Ahmedabad, India",
+        "title": "Jr. Software Developer",
+        "years": "Apr 2009 - Aug 2009",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "SQL",
+        "level": "50%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "20%"
+      },
+      {
+        "name": "AWS",
+        "level": "20%"
+      },
+      {
+        "name": "MS AZURE",
+        "level": "20%"
+      },
+      {
+        "name": "Microservices",
+        "level": "10%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Covid-19 Tracker & Chatbot (React JS)",
+        "category": "",
+        "image": "covid_tracker.jpg",
+        "url": "https://covid-19-tracker-78b8f.web.app/"
+      },
+      {
+        "title": "Facebook Clone (React JS)",
+        "category": "",
+        "image": "facebook.jpg",
+        "url": "https://d-facebook-clone.web.app/"
+      },
+      {
+        "title": "Amazon Clone (React JS)",
+        "category": "",
+        "image": "amazon.jpg",
+        "url": "https://d--clone.web.app/"
+      },
+      {
+        "title": "Tinder Clone (React JS)",
+        "category": "",
+        "image": "tinder.png",
+        "url": "https://d-tinder-clone.firebaseapp.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Apart from Programming, on personal interest I also like to do running on regular basis to keep myself active: 2 X Finisher - Ficci Flo Pune Half Marathon (2017, 2018)",
+        "user": "Deepak"
+      }
+    ]
+  }
+}
